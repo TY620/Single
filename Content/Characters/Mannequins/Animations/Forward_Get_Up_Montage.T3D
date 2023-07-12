@@ -1,0 +1,14 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="Forward_Get_Up_Montage" ExportPath=/Script/Engine.AnimMontage'"/Game/Characters/Mannequins/Animations/Forward_Get_Up_Montage.Forward_Get_Up_Montage"'
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath=/Script/Engine.AnimDataModel'"/Game/Characters/Mannequins/Animations/Forward_Get_Up_Montage.Forward_Get_Up_Montage:AnimDataModel"'
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath=/Script/Engine.AnimDataModel'"/Game/Characters/Mannequins/Animations/Forward_Get_Up_Montage.Forward_Get_Up_Montage:AnimDataModel"'
+      NumberOfFrames=148000
+      NumberOfKeys=148001
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=/Script/Engine.AnimMontage'"Forward_Get_Up_Montage"',SegmentIndex=0,SegmentLength=2.466667,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Characters/Mannequins/Animations/Forward_Get_Up.Forward_Get_Up"')
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference=/Script/Engine.AnimSequence'"/Game/Characters/Mannequins/Animations/Forward_Get_Up.Forward_Get_Up"',CachedPlayLength=2.466667,AnimEndTime=2.466667))))
+   SequenceLength=2.466667
+   AnimNotifyTracks(0)=(TrackName="1")
+   DataModelInterface=AnimDataModel'Forward_Get_Up_Montage:AnimDataModel'
+   Skeleton=/Script/Engine.Skeleton'"/Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin"'
+End Object
